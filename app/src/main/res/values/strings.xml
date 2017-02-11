@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">LBSDemo</string>
+    <string name="text_map">地图</string>
+    <string name="text_location">定位</string>
+    <string name="title_location_activity">定位</string>
+    <string name="title_map_activity">地图</string>
+
+    <!--Permission-->
+    <string name="permission_init_alert">需要访问位置、读写存储卡、读取手机识别码等权限</string>
+    <string name="permission_alert">需要相关权限，应用才能正常运行</string>
+    <string name="permission_ask_again">相关权限被禁止，应用将不能正常使用，需要到系统应用管理界面更改设置，是否去设置？</string>
+    <string name="title_settings_dialog">设置权限</string>
+    <string name="text_setting">设置</string>
+    <string name="text_ok">确认</string>
+    <string name="text_cancel">取消</string>
+
+    <string name="permission_not_granted_camera">摄像头权限已关闭，请开启后重试</string>
+</resources>
